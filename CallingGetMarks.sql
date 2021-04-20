@@ -1,0 +1,1 @@
+SELECT * FROM GetMarks(90)
